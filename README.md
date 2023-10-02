@@ -1,4 +1,4 @@
-# HacktoberFest 2023 `OPEN FIRST` Pull Request
+# HacktoberFest 2023 `Machine Learning  Project` 
 ![HacktoberFest 2023](logo.png)
 
 
@@ -24,8 +24,12 @@
 
 - Fork this Repository using the button at the top on the right corner.
 - Make sure the forked repository is ahead of all latest changes. If not, update to commits ahead and then proceed for editing.
-- Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
-- Add your profile data in `Profile-New Contributors`
+- Use Git if you are familiar with VScode and use git commands to propose changes through VScode
+- You can also directly commit changes on github itself , just make sure that the code files are running, preprocessed and giving accuracy , otherwise they won't be merged.
+- Research and add datasets in 'Datasets' directory based on Chronic diseases or closely related disease datasets.
+- Make new file with your name and add in  'Add Python Code' directory
+- If you are doing both dataset and code submission , make sure to name both of  them similarly for identification and code run testing.
+- It's not necessary to do both submissions. Either will work, just make sure not to commit corrupt files.
 - Propose Changes
 - Create a pull request
 - Star this repository
